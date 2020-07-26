@@ -1,0 +1,8 @@
+from tkinter import *
+
+//main window//root=Tk()
+
+//assign frame//topframe=Frame(root)
+topframe.pack()
+//button//but1=Button(topframe,text="spade",fg="blue",bg="red")
+//pack every element//but1.pack(side=LEFT,fill=X)

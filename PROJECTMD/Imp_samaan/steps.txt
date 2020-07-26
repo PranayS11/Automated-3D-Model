@@ -1,0 +1,5 @@
+>>>>>pyxl commands
+http://zetcode.com/articles/openpyxl/
+
+>>>>> tkinter comm
+http://infohost.nmt.edu/tcc/help/pubs/tkinter/web/index.html
